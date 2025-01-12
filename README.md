@@ -1,5 +1,5 @@
 # Education_Expenditure_Trends
-This dataset provides the percentage of GDP allocated to government expenditure on education for countries worldwide, spanning several years.
+This dataset provides the percentage of GDP allocated to government expenditure on education for countries worldwide, spanning several years. The data is sourced from the World Bank and includes information on the education expenditure as a percentage of GDP.
 
 This repository explores trends in **government expenditure on education as a percentage of GDP** globally. The dataset, sourced from the World Bank, spans several years and provides insights into how much countries invest in education relative to their economic size.
 
@@ -16,7 +16,7 @@ This repository explores trends in **government expenditure on education as a pe
 
 ## 🚀 Potential Applications
 - **Trend Analysis**: Investigate changes in education spending over decades.
-- **Cross-Country Comparison**: Identify disparities in education investment.
+- **Cross-Country Comparison**: Identify digisparities in education investment.
 - **Correlation Studies**: Analyze the relationship between education spending and literacy rates, GDP growth, or school enrollment.
 
 ## 📈 Sample Visualizations
